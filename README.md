@@ -1,4 +1,4 @@
-# Managing Favourite WordPair Generated
+# WordPair Generator App Including Adding To Favourite Possibility
 
 A new Flutter project.
 
