@@ -1,16 +1,14 @@
 # WordPair Generator App Including Adding To Favourite Possibility
 
-A new Flutter project.
+ - Generates random WordPairs and displays them in a list view
+ - You can like WordPairs
+ - You can view your favourite list
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Running Project
+ 
+ - Clone or download project
+ - Open on code editor of your choice
+ - Run your android emulator or connect your physical device
+ - Run `flutter pub get` to get installed packages
+ - Run the application
+ - 🐱‍🏍🐱‍🏍 Explore and edit to your taste 🐱‍🏍🐱‍🏍
